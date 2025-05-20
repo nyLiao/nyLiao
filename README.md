@@ -1,89 +1,61 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<br/>
 <br/>
 
-<h1 align="center">Hi, this is Ningyi Liao</h1> 
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
-    <p style="margin-bottom: 12px">For detailed bio and updates:&nbsp;
-    <a style="vertical-align: middle;" href="https://nyliao.github.io/">
-        <img alt="homepage" width="50px" src="https://img.icons8.com/?size=100&id=bAsyoJF9h4zr&format=png&color=000000"/>
-    </a></p>
-    <p style="margin-bottom: 0px">
-        <a href="https://www.linkedin.com/in/ningyi-liao-94310a2ba">
-            <img alt="linkedin" width="30px" src="https://img.icons8.com/?size=100&id=8808&format=png&color=0288D1"/>
-        </a>
-        <a href="https://scholar.google.com/citations?user=RadPeSAAAAAJ">
-            <svg width="30px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#4285F4" d="M 48 32 C 21.5 32 0 53.5 0 80 L 0 432 C 0 458.5 21.5 480 48 480 L 400 480 C 426.5 480 448 458.5 448 432 L 448 80 C 448 53.5 426.5 32 400 32 L 48 32 z M 188.69531 96 L 366.93555 96 L 350.46484 108.85938 L 350.46484 131.55273 C 356.58074 132.33805 355.93359 136.01292 355.93359 140.41016 L 355.93359 247.63281 C 355.93359 252.59844 351.87154 256.66211 346.90625 256.66211 L 343.58203 256.66211 C 338.6164 256.66211 334.55273 252.59808 334.55273 247.63281 L 334.55273 140.41016 C 334.55273 136.00235 333.91278 132.32357 340.07422 131.54883 L 340.07422 117.2832 L 292.65039 156.17578 C 293.19834 157.19151 293.71814 157.84328 294.21289 158.69531 C 298.37973 166.07266 300.50195 175.2445 300.50195 186.45508 C 300.50195 195.04833 299.06991 202.77005 296.16602 209.58594 C 293.2752 216.4033 289.75942 221.97045 285.6582 226.25977 C 281.55701 230.56406 277.44275 234.49591 273.32812 238.03711 C 269.21486 241.58524 265.69906 245.28375 262.82031 249.125 C 259.91892 252.95314 258.47266 256.91247 258.47266 261.01367 C 258.47266 265.12181 260.3486 269.29452 264.08594 273.5 C 267.8098 277.7186 272.39123 281.80635 277.80859 285.84375 C 283.23797 289.85418 288.65493 294.30653 294.07227 299.15039 C 299.50131 303.98623 304.05933 310.21146 307.7832 317.77148 C 311.53367 325.35666 313.4082 333.7088 313.4082 342.88867 C 313.4082 354.99795 310.32064 365.93466 304.16211 375.66797 C 297.99007 385.36114 289.94334 393.09684 280.06055 398.76758 C 270.15151 404.47697 259.55333 408.77389 248.25195 411.67773 C 236.92398 414.55506 225.68694 416 214.46289 416 C 207.37866 416 200.23024 415.4525 193.04102 414.33398 C 185.82883 413.21398 178.60279 411.2357 171.32422 408.44922 C 164.03255 405.64267 157.57316 402.19843 151.97461 398.05859 C 146.36256 393.96392 141.84477 388.67686 138.38086 382.23828 C 134.91694 375.79976 133.19727 368.55971 133.19727 360.51953 C 133.19727 350.9809 135.85421 342.13421 141.17969 333.88477 C 146.50481 325.69549 153.56199 318.85925 162.33789 313.44336 C 177.65114 303.91787 201.67434 298.03206 234.36914 295.80664 C 226.89588 286.46381 223.14648 277.66689 223.14648 269.4375 C 223.14648 264.75479 224.36834 259.73766 226.79102 254.32031 C 222.8845 254.86718 218.86242 255.17383 214.75977 255.17383 C 197.19704 255.17383 182.36436 249.46431 170.32031 237.9668 C 158.27629 226.48824 152.26172 212.1206 152.26172 194.75 C 152.26172 192.93401 152.31391 191.33134 152.44336 189.56055 L 81.064453 189.56055 L 188.69531 96 z M 220.07422 134.33398 C 208.8753 134.33398 200.28236 138.36304 194.29297 146.4043 C 188.30507 154.42442 185.30859 164.13895 185.30859 175.55078 C 185.30859 185.27059 186.9492 195.16722 190.23047 205.25781 C 193.49857 215.34329 198.8517 224.34729 206.35156 232.2832 C 213.8248 240.23914 222.52348 244.20898 232.40625 244.20898 C 243.42216 244.20898 252.02911 240.51954 258.20117 233.13672 C 264.34622 225.76629 267.43164 216.46329 267.43164 205.25781 C 267.43164 195.71264 265.80524 185.72081 262.53711 175.27148 C 259.28103 164.80901 253.85206 155.36886 246.27344 146.96484 C 238.7211 138.53274 229.97011 134.33398 220.07422 134.33398 z M 238.5918 306.41406 C 230.55711 306.41406 222.65275 307.12634 214.89258 308.54492 C 207.13241 309.92488 199.47583 312.25478 191.92383 315.54297 C 184.34522 318.81255 178.22564 323.61796 173.56445 329.97266 C 168.87661 336.31933 166.54492 343.79435 166.54492 352.39453 C 166.54492 360.59035 168.60405 367.90081 172.71875 374.26758 C 176.8214 380.59526 182.2367 385.55152 188.96875 389.09961 C 195.70076 392.65432 202.7576 395.33574 210.12695 397.09961 C 217.50975 398.85145 225.02377 399.76367 232.67969 399.76367 C 247.82231 399.76367 260.85547 396.35252 271.79297 389.53516 C 282.70351 382.71926 288.17383 372.1931 288.17383 357.98633 C 288.17383 354.99821 287.75694 352.05432 286.93555 349.18359 C 286.07694 346.2797 285.2319 343.79439 284.39844 341.73047 C 283.56499 339.70522 281.97671 337.26317 279.63281 334.45117 C 277.302 331.63256 275.51712 329.54862 274.31836 328.16211 C 273.09446 326.73003 270.80621 324.68508 267.43164 321.98242 C 264.08738 319.26867 261.95132 317.57694 261 316.95117 L 260.99805 316.95117 C 260.06034 316.29355 257.62635 314.51567 253.70703 311.63086 C 249.78813 308.72002 247.64052 307.17679 247.26172 306.99414 C 245.20436 306.62337 242.31565 306.41406 238.5918 306.41406 z" /></svg>
-        </a>
-        <a href="https://dblp.org/pid/274/2346">
-            <svg width="30px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ffd500" d="M 48 32 C 21.5 32 0 53.5 0 80 L 0 432 C 0 458.5 21.5 480 48 480 L 400 480 C 426.5 480 448 458.5 448 432 L 448 80 C 448 53.5 426.5 32 400 32 L 48 32 z M 105.66406 96.009766 C 107.80007 96.154751 110.66797 97.912109 110.66797 97.912109 L 203.33203 154.73242 C 212.39569 160.29071 214.49414 168.12109 214.49414 168.12109 C 223.498 201.92859 222.52132 198.45356 223.49805 201.92773 L 232.23047 234.51367 L 247.31836 290.82812 C 247.3959 291.11719 247.43658 291.38672 247.48828 291.66406 C 248.85259 298.89806 241.95508 302.125 241.95508 302.125 L 224.50391 310.23828 C 224.50391 310.23828 194.21377 324.31398 142.20117 348.48828 C 134.73802 351.95605 132.64258 344.13086 132.64258 344.13086 L 99.917969 222.00195 C 97.819214 214.17333 105.28125 210.70508 105.28125 210.70508 L 130.20898 199.12109 L 130.21289 199.11914 L 103.70117 100.18359 C 102.78349 96.758065 104.00273 95.897003 105.66406 96.009766 z M 309.45117 162.78906 C 313.97225 162.86707 315.35742 168.03516 315.35742 168.03516 L 348.08203 290.16211 C 350.18078 297.99073 342.7197 301.45898 342.7207 301.45898 L 317.82812 313.0293 C 344.29604 411.80769 325.80592 342.80802 344.29688 411.81445 C 346.39445 419.64424 337.33398 414.08594 337.33398 414.08594 L 244.66992 357.26562 C 235.60626 351.70733 233.50781 343.87891 233.50781 343.87891 L 233.40625 343.46484 L 226.68945 318.33594 L 251.68555 306.64844 C 251.68555 306.64844 257.89934 302.4175 257.2168 296.1875 C 257.16394 295.91134 257.12718 295.63947 257.05078 295.35156 L 242.53711 240.95312 L 242.55859 240.9668 L 231.08789 198.17969 L 305.79883 163.67578 C 307.19774 163.02557 308.40785 162.77106 309.45117 162.78906 z" /></svg>
-        </a>
-        <a href="https://www.semanticscholar.org/author/Ningyi-Liao/1940000983">
-            <svg width="30px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#1f6de2" d="M 48 32 C 21.5 32 0 53.5 0 80 L 0 432 C 0 458.5 21.5 480 48 480 L 400 480 C 426.5 480 448 458.5 448 432 L 448 80 C 448 53.5 426.5 32 400 32 L 48 32 z M 119.56445 139.35547 L 303.41016 139.35547 C 315.13153 165.60335 319.88398 193.4779 324.32812 221.42578 C 323.51162 221.6574 322.69739 221.89177 321.88086 222.125 C 321.29319 220.4904 320.59928 218.8865 320.13281 217.2168 C 316.76632 205.18207 313.37257 193.15428 310.15039 181.08008 C 308.99141 176.7364 306.25795 174.5727 302.34766 172.44531 C 296.60458 169.32201 291.17708 165.29669 286.41797 160.80469 C 283.38074 157.93974 280.7832 156.19089 276.47461 156.23633 C 247.79035 156.53974 219.10297 156.57005 190.41992 156.83398 C 188.50822 156.85298 186.14219 157.55827 184.78906 158.81055 C 179.57066 163.63942 174.67888 168.82058 168.24609 175.29883 C 185.21336 216.61544 193.7428 261.64768 190.08008 309.52148 C 181.93412 304.30587 175.62828 300.17838 175.25391 289.25 C 173.38049 234.63004 156.53044 185.23556 121.33008 142.73047 C 120.53829 141.77402 120.14494 140.48694 119.56445 139.35547 z M 102.5332 160.38281 C 106.61814 160.38047 110.70205 160.40714 114.7832 160.52734 C 116.40306 160.57394 118.66917 161.60462 119.47852 162.90234 C 143.88926 202.12226 162.91927 243.3124 165.38477 290.43945 C 165.39627 290.62604 165.20264 290.82232 164.50586 292.19141 C 149.91793 242.32458 123.60002 200.10378 89.75 162.26172 C 89.926565 161.64774 90.100725 161.03315 90.277344 160.41797 C 94.362077 160.41797 98.448269 160.38516 102.5332 160.38281 z M 95.414062 193.69531 C 96.408388 193.67631 97.581595 194.99028 98.414062 195.91602 C 117.67057 217.33622 135.14784 239.96798 145.91992 267.03516 C 147.96997 272.18339 149.37261 277.58997 151.07422 282.87695 C 128.76174 247.76428 97.711675 221.50865 64 194.72852 C 75.670333 194.30432 85.541797 193.8791 95.414062 193.69531 z M 382.5332 212.66406 C 382.96916 212.62743 383.44822 212.65948 384 212.79883 C 310.69484 255.37091 240.75974 301.98583 189.4668 372.64453 C 169.15613 340.34415 149.59321 309.23098 130.0293 278.11914 C 130.26851 277.81136 130.50925 277.50662 130.74805 277.19922 C 132.38826 278.52007 167.27771 306.49602 182.94727 319.32812 C 187.31248 322.90316 190.61015 322.83978 195.15039 319.15234 C 248.43037 275.87141 307.88344 243.11224 371.00977 216.69531 C 374.37948 215.28556 377.87563 214.16737 381.32227 212.94141 C 381.70501 212.80585 382.09724 212.70069 382.5332 212.66406 z" /></svg>
-        </a>
-        <a href="https://orcid.org/0000-0003-3176-4401">
-            <svg width="30px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#a6ce39" d="M 48 32 C 21.5 32 0 53.5 0 80 L 0 432 C 0 458.5 21.5 480 48 480 L 400 480 C 426.5 480 448 458.5 448 432 L 448 80 C 448 53.5 426.5 32 400 32 L 48 32 z M 224 96 C 312.37321 96 384 167.63992 384 256 C 384 344.36009 312.37321 416 224 416 C 135.62679 416 64 344.36009 64 256 C 64 167.63992 135.62679 96 224 96 z M 161.38672 154.25391 C 154.18656 154.25391 148.34766 160.10614 148.34766 167.2793 C 148.34766 174.50609 154.20004 180.32031 161.38672 180.32031 C 168.6 180.32031 174.42525 174.5192 174.43945 167.2793 C 174.43945 160.09263 168.6 154.25391 161.38672 154.25391 z M 151.91992 194.16016 L 151.91992 326.6543 L 170.87891 326.6543 L 170.87891 194.16016 L 151.91992 194.16016 z M 200.45312 194.16016 L 200.45312 326.45312 L 242.36133 326.45312 C 254.13446 326.45312 262.09473 326.13381 266.28125 325.48047 C 270.45462 324.80053 275.02745 323.47971 280.02734 321.5332 C 288.57391 318.30628 296.06779 313.55956 302.50781 307.21289 C 308.841 301.0795 313.70591 293.96058 317.11914 285.86719 L 317.12109 285.86719 C 320.52082 277.7873 322.25443 269.30595 322.24023 260.42578 C 322.24023 248.05256 319.1337 236.60085 312.93359 226.10742 C 306.73346 215.62745 298.39971 207.65376 287.90625 202.25391 C 277.39933 196.84058 263.16106 194.16016 245.12109 194.16016 L 200.45312 194.16016 z M 219.45312 211.03906 L 243.13281 211.03906 C 252.25286 211.03906 258.84061 211.37352 262.94727 212.08008 C 267.06743 212.76004 271.41372 214.20099 276.01367 216.34766 L 276.01367 216.3457 C 280.5735 218.50584 284.65256 221.26623 288.19922 224.59961 C 297.81257 233.58659 302.61328 245.199 302.61328 259.42578 C 302.61328 273.90595 297.93278 285.87966 288.58594 295.37305 C 285.66599 298.29299 282.45385 300.73409 278.94727 302.7207 C 275.44072 304.7208 271.06578 306.34744 265.8125 307.64062 C 260.55922 308.93379 253.20114 309.58594 243.73438 309.58594 L 219.45312 309.58594 L 219.45312 211.03906 z" /></svg>
-        </a>
-    </p>
-</div>
-
-<h2 align="center">Tech Stack</h2> 
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
-    <div style="display: flex; align-items: center; gap: 10px;">
-        <span style="font-weight: bold; vertical-align: middle;">ML/DS&nbsp;</span>
-        <span style="font-size: 30px">
-            <i class="devicon-pytorch-plain colored" alt="pytorch logo"></i>
-            <i class="devicon-keras-plain colored" alt="keras logo"></i>
-            <i class="devicon-tensorflow-original colored" alt="tensorflow logo"></i>
-            <i class="devicon-scikitlearn-plain colored" alt="scikit-learn logo"></i>
-            <i class="devicon-pandas-plain colored" alt="pandas logo"></i>
-            <i class="devicon-numpy-plain colored" alt="numpy logo"></i>
-            <i class="devicon-matplotlib-plain colored" alt="matplotlib logo"></i>
-            <i class="devicon-plotly-plain colored" alt="plotly logo"></i>
-        </span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 10px;">
-        <span style="font-weight: bold; vertical-align: middle;">BE/DB&nbsp;</span>
-        <span style="font-size: 30px">
-            <i class="devicon-python-plain colored" alt="python logo"></i>
-            <i class="devicon-jupyter-plain colored" alt="jupyter logo"></i>
-            <i class="devicon-cplusplus-plain colored" alt="cplusplus logo"></i>
-            <i class="devicon-java-plain colored" alt="java logo"></i>
-            <i class="devicon-matlab-plain colored" alt="matlab logo"></i>
-            <i class="devicon-lua-plain colored" alt="lua logo"></i>
-            <i class="devicon-mysql-plain colored" alt="mysql logo"></i>
-            <i class="devicon-hadoop-plain" alt="hadoop logo"></i>
-        </span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 10px;">
-        <span style="font-weight: bold; vertical-align: middle;">FE&nbsp;</span>
-        <span style="font-size: 30px">
-            <i class="devicon-html5-plain colored" alt="html5 logo"></i>
-            <i class="devicon-css3-plain colored" alt="css3 logo"></i>
-            <i class="devicon-javascript-plain colored" alt="javascript logo"></i>
-            <i class="devicon-nodejs-plain colored" alt="nodejs logo"></i>
-            <i class="devicon-django-plain colored" alt="django logo"></i>
-            <i class="devicon-bootstrap-plain colored" alt="bootstrap logo"></i>
-        </span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 10px;">
-        <span style="font-weight: bold; vertical-align: middle;">DevOps/OS&nbsp;</span>
-        <span style="font-size: 30px">
-            <i class="devicon-git-plain colored" alt="git logo"></i>
-            <i class="devicon-github-plain colored" alt="github logo"></i>
-            <i class="devicon-vscode-plain colored" alt="vscode logo"></i>
-            <i class="devicon-bash-plain colored" alt="bash logo"></i>
-            <i class="devicon-ubuntu-plain colored" alt="ubuntu logo"></i>
-        </span>
-    </div>
-</div>
-
-<h2 align="center">Stats</h2> 
+<h2 align="center">Hi, this is Ningyi Liao</h1> 
 <div align="center">
-<a>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=nyLiao&disable_animations=true&show_icons=true&hide_title=true&hide_rank=true&hide_border=false&count_private=true&include_all_commits=true" />
-</a>
-<a>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyLiao&disable_animations=true&hide_title=true&show_icons=true&hide_border=false&layout=compact&langs_count=8&exclude_repo=SJTUsousou&hide=jupyter%20notebook" />
-</a>
+    Personal website: <a href="https://nyliao.github.io/" style="font-family: monospace;"><code>nyliao.github.io</code></a>
+    <p></p>
+    <a href="https://www.linkedin.com/in/ningyi-liao-94310a2ba"><img alt="linkedin" width="30px" src="https://img.icons8.com/?size=100&id=8808&format=png&color=0288D1"/></a>
+    <a href="https://scholar.google.com/citations?user=RadPeSAAAAAJ"><img height="36px" width="30px" src="https://github.com/nyLiao/nyLiao/blob/master/image/academicons/google-scholar-square.svg" alt="google scholar logo" /></a>
+    <a href="https://dblp.org/pid/274/2346"><img height="36px" width="30px" src="https://github.com/nyLiao/nyLiao/blob/master/image/academicons/dblp-square.svg" alt="dblp logo" /></a>
+    <a href="https://www.semanticscholar.org/author/Ningyi-Liao/1940000983"><img height="36px" width="30px" src="https://github.com/nyLiao/nyLiao/blob/master/image/academicons/semantic-scholar-square.svg" alt="semantic scholar logo" /></a>
+    <a href="https://orcid.org/0000-0003-3176-4401"><img height="36px" width="30px" src="https://github.com/nyLiao/nyLiao/blob/master/image/academicons/orcid-square.svg" alt="orcid logo" /></a>
+</div>
+
+<h3 align="center">Tech Stack</h2> 
+<div align="center">
+    <!-- ML/DS -->
+    <!-- <br/> -->
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="keras logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="plotly logo" />&nbsp;
+    <!-- <p></p> -->
+    <!-- BE/DB -->
+    <!-- <br/> -->
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="jupyter logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="lua logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" alt="hadoop logo" />&nbsp;
+    <!-- <p></p> -->
+    <!-- FE -->
+    <br/>
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5 logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3 logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" />&nbsp;
+    <!-- <p></p> -->
+    <!-- DevOps/OS -->
+    <!-- <br/> -->
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash logo" />&nbsp;
+    <img height="36px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu logo" />
+</div>
+
+
+<h3 align="center">Stats</h2> 
+<div align="center">
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=nyLiao&disable_animations=true&show_icons=true&hide_title=true&hide_rank=true&hide_border=false&count_private=true&include_all_commits=true" />
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyLiao&disable_animations=true&hide_title=true&show_icons=true&hide_border=false&layout=compact&langs_count=8&exclude_repo=SJTUsousou&hide=jupyter%20notebook" />
 </div>
