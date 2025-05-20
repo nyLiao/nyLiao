@@ -1,5 +1,3 @@
-<br/>
-
 <h2 align="center">Hi, this is Ningyi Liao</h1> 
 <div align="center">
     Personal website: <a href="https://nyliao.github.io/" style="font-family: monospace;"><code>nyliao.github.io</code></a>
