@@ -1,6 +1,6 @@
 <h2 align="center">Hi, this is Ningyi Liao</h1> 
 <div align="center">
-    Personal website: <a href="https://nyliao.github.io/" style="font-family: monospace;"><code>nyliao.github.io</code></a>
+    <a href="https://nyliao.github.io/" style="font-family: monospace;"><code>nyliao.github.io</code></a>
     <p></p>
     <a href="https://www.linkedin.com/in/ningyi-liao-94310a2ba"><img alt="linkedin" width="30px" src="https://img.icons8.com/?size=100&id=8808&format=png&color=0288D1"/></a>
     <a href="https://scholar.google.com/citations?user=RadPeSAAAAAJ"><img height="30px" width="30px" src="https://github.com/nyLiao/nyLiao/blob/main/image/academicons/google-scholar-square.svg" alt="google scholar logo" /></a>
@@ -54,6 +54,6 @@
 
 <h3 align="center">Stats</h2> 
 <div align="center">
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=nyLiao&disable_animations=true&show_icons=true&hide_title=true&hide_rank=true&hide_border=false&count_private=true&include_all_commits=true" />
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyLiao&disable_animations=true&hide_title=true&show_icons=true&hide_border=false&layout=compact&langs_count=8&exclude_repo=SJTUsousou&hide=jupyter%20notebook" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=nyLiao&disable_animations=true&show_icons=true&hide_title=true&hide_rank=true&hide_border=false&count_private=true&include_all_commits=true" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyLiao&disable_animations=true&hide_title=true&show_icons=true&hide_border=false&layout=compact&langs_count=8&exclude_repo=SJTUsousou&hide=jupyter%20notebook" />
 </div>
